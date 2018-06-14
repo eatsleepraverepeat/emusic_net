@@ -26,7 +26,7 @@ A potential problem with the model reasoning is objectivity since the data was l
 
 ## How good is it?
 
-You can find the full description of model inference in related Jupyter Notebook. 
+You can find the full description of model inference in `handy_guide.ipynb`. 
 
 We evaluate our model in terms of Precision @ K:
 
