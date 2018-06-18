@@ -43,7 +43,7 @@ tensorflow-gpu==1.8.0
 librosa==0.6.1
 keras==2.1.6
 mutagen==1.40.0
-kapre==0.1.3
+kapre
 numpy==1.14.3
 pandas==0.23.0
 matplotlib==2.2.2
