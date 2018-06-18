@@ -47,7 +47,7 @@ kapre
 numpy==1.14.3
 pandas==0.23.0
 matplotlib==2.2.2
-jupyter notebook==5.5.0
+notebook==5.5.0
 ```
 All together in requirements.txt. Sitting in the directory, execute
 `pip3 install -r requirements.txt`
