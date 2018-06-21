@@ -18,7 +18,7 @@ The network was trained on a private dataset of labeled raw audio, processed as 
  - Trance (Uplifting, psy, stadium);
  - Halftime (*Drum & Bass* subgenre with the same tempo, but with a half less drum kicks);
  - House / Nu Disco / Disco;
- - Progressive House (also, its modern form, mostly);
+ - Progressive House (also, its modern form, mostly, Yotto, Jeremy Olander, Fehrplay, Komytea);
  - Techno / Tech House;
  - Trap
  
