@@ -3,7 +3,7 @@
 
 # <center>Electronic music styles Neural Net</center> 
 
-The repository contains the model, a convolution neural network, which was trained to distinguish 12 different styles of modern electronic music, trained to classify 12 classes. **Keras** model `.h5` and **super handy** Jupyter Notebook `.ipynb` as a guide with details are provided. Starring *Tensorflow* as backend.
+The repository contains the model, a convolutional neural network, which was trained to distinguish 12 different styles of modern electronic music, trained to classify 12 classes. **Keras** model `.h5` and **super handy** Jupyter Notebook `.ipynb` as a guide with details are provided. Starring *Tensorflow* as backend.
 
 ## Data
 
